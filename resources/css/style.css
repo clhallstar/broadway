@@ -35,8 +35,13 @@ html {
   font-size: 14px;
 }
 
+.footer {
+  font-size: 11px;
+  background-color: dimgray;
+  text-align: left;
+}
+
 #newyork {
   background-image: url("../images/the-flatiron-building.png");
   color: white;
   font-size: 23px;
-}
