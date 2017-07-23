@@ -2,13 +2,41 @@ html {
   font-family: Helvetica;
   color: white;
   text-align: center;
+  font-weight: bold;
+}
+
+.header {
+  background-image: url("../images/the-flatiron-building.png");
 }
 
 .header h1 {
   font-size: 70px;
-  font-weight: bold;
 }
 
-.header ul {
+.header p {
   font-size: 18px;
+  font-weight: normal;
+}
+
+.body {
+  background-color: white;
+  color: black;
+}
+
+.body h2 {
+  font-size: 32px;
+}
+
+.body h3 {
+  font-size: 23px;
+}
+
+.body p {
+  font-size: 14px;
+}
+
+#newyork {
+  background-image: url("../images/the-flatiron-building.png");
+  color: white;
+  font-size: 23px;
 }
